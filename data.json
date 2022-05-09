@@ -1,0 +1,12 @@
+{
+    "fps":45,
+    "probability":40,
+    "block_count":50,
+    "width":800,
+    "height":800,
+    "wire_color":[255,215,0],
+    "electronic":[102,255,230],
+    "electronic_tail":[255,0,0],
+    "line_color":[0,0,0],
+    "color_background" :[128,128,128]
+}
